@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected successfully*
-*_Made by CËËJÀY TËÇH SÙPPØRT *
+*_Made by CgY TËÇH SÙPPØRT *
 ______________________________________
 ╔════👿
 ║  TO ALL MY SUPPORTERS:
